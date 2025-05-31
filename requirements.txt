@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-dateutil
+pandas
+openpyxl
+redis
+bs4
+pytz
